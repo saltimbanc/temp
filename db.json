@@ -1,29 +1,26 @@
-{ "items": [
-   {
-      "title":"vidIQ Vision for YouTube",
-      "rating":"4.53",
-      "reviewCount":"9192",
-      "usersCount":"2,000,000+",
-      "offeredBy":"vidiq.com",
-      "versionNumber":"3.62.0",
-      "lastUpdate":"February 4, 2022"
-   },
-   {
-      "title":"Stylish - Custom themes for any website",
-      "rating":"4.23",
-      "reviewCount":"17996",
-      "usersCount":"3,000,000+",
-      "offeredBy":"https://userstyles.org",
-      "versionNumber":"2.1.0",
-      "lastUpdate":"January 30, 2022"
-   },
-   {
-      "title":"Farmville2 X-Press",
-      "rating":"3.67",
-      "reviewCount":"4215",
-      "usersCount":"300,000+",
-      "offeredBy":"Zynga, Inc.",
-      "versionNumber":"0.45",
-      "lastUpdate":"July 19, 2019"
-   }
-]}
+{
+   "items":[
+      [
+         {
+            "scrapperdAt":"Thu Feb 17 2022 13:10:07 GMT+0200 (Eastern European Standard Time)",
+            "title":"vidIQ Vision for YouTube",
+            "rating":"4.53",
+            "reviewCount":"9192",
+            "usersCount":"2,000,000+",
+            "offeredBy":"vidiq.com",
+            "versionNumber":"3.62.0",
+            "lastUpdate":"February 4, 2022"
+         },
+         {
+            "scrapperdAt":"Thu Feb 17 2022 13:10:09 GMT+0200 (Eastern European Standard Time)",
+            "title":"Stylish - Custom themes for any website",
+            "rating":"4.23",
+            "reviewCount":"17996",
+            "usersCount":"3,000,000+",
+            "offeredBy":"https://userstyles.org",
+            "versionNumber":"2.1.0",
+            "lastUpdate":"January 30, 2022"
+         }
+      ]
+   ]
+}
